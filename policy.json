@@ -138,7 +138,7 @@
     {
       "source": "localUA",
       "target": "generalOA",
-      "operations": ["tcp/35", "tcp/80", "tcp/81", "tcp/82", "tcp/83", "tcp/84", "tcp/85", "tcp/86", "tcp/87", "tcp/88", "tcp/89", "tcp/443", "arp"]
+      "operations": ["tcp/49", "tcp/80", "tcp/81", "tcp/82", "tcp/83", "tcp/84", "tcp/85", "tcp/86", "tcp/87", "tcp/88", "tcp/89", "tcp/443", "arp"]
     }
  ]
 }
